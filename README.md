@@ -1,7 +1,7 @@
 
 # Online-Examination-System
 
-An online examination system is a fast-growing method of conducting examinations due to its speed, accuracy, and efficiency. It requires minimal manpower to administer, saves time for both students and organizations, and allows for quick assessment of student performance. Moreover, it contributes to environmental sustainability by reducing paper usage.
+This project is an online examination system, a fast-growing method of conducting examinations due to its speed, accuracy, and efficiency. It requires minimal manpower to administer, saves time for both students and organizations, and allows for quick assessment of student performance. Moreover, it contributes to environmental sustainability by reducing paper usage.
 
 
 ## Key Features
